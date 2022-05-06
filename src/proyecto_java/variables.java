@@ -8,6 +8,8 @@ public class variables {
     int edad;
     int telefono;
     String direccion;
+    String email;
+    String estado;
             
     
 }
